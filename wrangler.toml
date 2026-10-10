@@ -1,0 +1,9 @@
+name = "personal-details-api"
+main = "src/index.js"
+compatibility_date = "2024-03-20"
+
+# Bind a D1 database.
+[[d1_databases]]
+binding = "DB"
+database_name = "personal_details_hub"
+database_id = "c9320c2a-3242-41af-b38d-314015656bdc"
